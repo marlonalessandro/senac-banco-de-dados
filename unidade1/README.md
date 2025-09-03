@@ -120,7 +120,7 @@
         <h3>Microsoft Access</h3>
         <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="LINKEDIN">ARTHUR</a></li>
         <li><a href="LINKEDIN">NOME</a></li>
         <li><a href="LINKEDIN">NOME</a></li>
         <li><a href="LINKEDIN">NOME</a></li>       
