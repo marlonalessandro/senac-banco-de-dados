@@ -118,7 +118,7 @@
     </td>
     <td>
         <h3>Microsoft Access</h3>
-        <a href="https://miro.com/app/board/uXjVJNToppM=/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FMicrosoft_Access&psig=AOvVaw2guA_zn-GPQ3pqx4qvyYpW&ust=1756946219500000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOi95-usu48DFQAAAAAdAAAAABAE" width="250px"></a>
+        <a href="https://miro.com/app/board/uXjVJNToppM=/"><img src="https://sempreupdate.com.br/wp-content/uploads/2022/07/microsoft-corrige-problema-no-access-causado-pelas-atualizacoes-de-julho-2-scaled.jpg" width="250px"></a>
         <h3>Equipe:</h3>
         <li><a href="https://www.linkedin.com/in/arthur-andrey-933555280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">ARTHUR ANDREY</a></li>
         <li><a href="https://www.linkedin.com/in/guilherme-henrique-ferreira-1b3035214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">GUILHERME HENRIQUE</a></li>
