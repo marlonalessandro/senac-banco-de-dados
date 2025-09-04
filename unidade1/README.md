@@ -122,7 +122,7 @@
         <h3>Equipe:</h3>
         <li><a href="https://www.linkedin.com/in/arthur-andrey-933555280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">ARTHUR ANDREY</a></li>
         <li><a href="https://www.linkedin.com/in/guilherme-henrique-ferreira-1b3035214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">GUILHERME HENRIQUE</a></li>
-        <li><a href="LINKEDIN">MARLON ALVES</a></li>    
+        <li><a href="www.linkedin.com/in/marlon-alves22">MARLON ALVES</a></li>    
     </td>
     <td>
         <h3>MongoDB</h3>
